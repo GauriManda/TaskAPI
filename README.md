@@ -26,7 +26,7 @@ task-api/
 
 Setup & Usage
 1️. Clone the Repository
-git clone https://github.com/<your-username>/task-management-api.git
+git clone [https://github.com/<your-username>/task-management-api.git](https://github.com/GauriManda/TaskAPI)
 cd task-management-api
 
 2️. Install Dependencies
