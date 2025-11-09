@@ -3,26 +3,17 @@ Task Management API – Node.js & Express
 
 Overview
 This project is a simple Task Management REST API built using Node.js and Express.js.
-It allows users to perform CRUD operations on tasks: create, read, update, and delete.
-
+It allows users to perform CRUD (create, read, update, and delete) operations on tasks.
 
 Key Features
 CRUD Endpoints: Create, read, update, and delete tasks
 Validation: Ensures title and description are provided
 Error Handling: Handles missing routes and invalid task IDs gracefully
 
-
 Tech Stack
 Runtime: Node.js
 Framework: Express.js
 Language: JavaScript (ES6)
-
-Project Structure
-task-api/
-│
-├── routes.js       
-├── server.js        
-└── package.json
 
 Setup & Usage
 1️. Clone the Repository
